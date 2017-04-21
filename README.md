@@ -1,7 +1,6 @@
 # LCResizableView
 ##效果
 
-
 ![LCResizableView](http://upload-images.jianshu.io/upload_images/1951020-03a49a94e51bee13.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ##如何引用
